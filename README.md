@@ -75,12 +75,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauriNair77&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GauriNair77&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauriNair77&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GauriNair77&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GauriNair77" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GauriNair77&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <br/>
