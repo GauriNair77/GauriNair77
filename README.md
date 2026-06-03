@@ -24,7 +24,7 @@
 
   <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" style="margin-right: 12px;" />
 
-  <img src="https://cdn.simpleicons.org/java/007396" width="40" height="40" style="margin-right: 12px;" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 12px;"/> </a>
 
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" style="margin-right: 12px;" />
 
